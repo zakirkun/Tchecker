@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3vh;
+    
+}
+body{
+    background-color:#31354e;
+    color:white;
+}
+a{
+    color:rgb(15, 115, 247);
+    text-decoration: none;
+    width:30px;
+}
+a:hover{
+    color:rgb(158, 237, 240);
+}
+.container{
+    width: 960px;
+    margin: auto;
+}
+input{
+    border:none;
+}
